@@ -6,3 +6,5 @@ This is my first repository.
 ## Installation
 
 ## How to use
+
+## Uninstallation
